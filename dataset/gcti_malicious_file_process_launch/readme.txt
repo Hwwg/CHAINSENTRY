@@ -1,0 +1,1 @@
+Use Google Cloud Threat Intel hash intelligence to scan for malicious process launch activity

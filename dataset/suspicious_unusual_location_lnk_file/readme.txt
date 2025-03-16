@@ -1,0 +1,1 @@
+suspicious_unusual_location_lnk_file
