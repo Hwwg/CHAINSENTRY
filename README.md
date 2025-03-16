@@ -1,2 +1,2 @@
 # CHAINSENTRY
-Towards Intelligent SOC: Leveraging Large Language Models for Adaptive alarm Handling
+Towards Automated SOC Alert Validation: Leveraging LLMs for False Positives Identification
