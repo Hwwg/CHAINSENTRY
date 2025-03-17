@@ -43,3 +43,16 @@ python alertgpt_v1.py
 ```
 
 To change the model or test dataset path, modify the respective settings directly in alertgpt_v1.py.
+
+# Test set & Comparison Methods
+
+## Test set
+
+- NGIDS_DS_1000_modified.json: NGIDS-DS
+- combined_unique_data_tp.json: GSI-Data<sub>TT</sub>
+- combined_unique_data_fp.json: GSI-Data<sub>BE</sub>
+
+## Comparison Methods
+
+The code and prompts for the comparison method are in `scripts/compare_prompt.py`
+
